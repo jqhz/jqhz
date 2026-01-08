@@ -13,8 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Yo, I'm $\color{blue}Jahzz$
+
 I'm a Software Engineering student, primarily working with React and Typescript.
+
 Avid speedrunner in Minecraft and occassionally dabble in anime.
+
+![anime_slideshow](https://github.com/user-attachments/assets/a3a0594d-fddd-4861-9cce-29cf9f3d3bcc)
 
 <!--## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jqhz) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jahzz) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jqhz) -->
