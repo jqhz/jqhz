@@ -18,6 +18,8 @@ I'm a Software Engineering student, primarily working with React and Typescript.
 
 Avid speedrunner in Minecraft and occassionally dabble in anime.
 
+I use Fedora, btw.
+
 ![anime_slideshow](https://github.com/user-attachments/assets/a3a0594d-fddd-4861-9cce-29cf9f3d3bcc)
 
 <!--## 🌐 Socials:
